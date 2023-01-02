@@ -1,2 +1,0 @@
-# GymSport
- Plano de Negocio
